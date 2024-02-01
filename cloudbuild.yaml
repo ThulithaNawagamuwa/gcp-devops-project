@@ -1,0 +1,8 @@
+steps:
+# Docker Build
+- name: 'docker'
+  args: ['build','-t','gcr.io/$PROJECT_ID/gcpdevops','.']
+
+# Store images in Google Artifact Registry 
+images:
+- 'gcr.io/$PROJECT_ID/gcpdevops'
