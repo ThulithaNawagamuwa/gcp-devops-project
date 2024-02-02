@@ -12,7 +12,7 @@ steps:
 - name: "gcr.io/cloud-builders/gke-deploy"
   args:
   - run
-  - --filename=gke.yaml
+  - --filename=kubernetes-resources.yaml
   - --image=gcr.io/$PROJECT_ID/gcpdevops
   - --location=asia-south1-a
   - --cluster=gcp-devops-project
