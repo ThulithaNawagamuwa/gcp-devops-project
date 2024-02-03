@@ -36,3 +36,4 @@ spec:
   selector:
     app: "gcp"
   type: "LoadBalancer"
+  
