@@ -13,4 +13,4 @@ This repository contains a simple Flask application that can be deployed on Goog
 
 This project demonstrates the integration of a Flask application with GCP services, providing a robust setup for cloud deployment and management.
 
-The explained article can be viewed on [Medium]([https://medium.com/@thulitha_n/building-an-end-to-end-ci-cd-pipeline-on-gcp-0e3546d414c4].
+The explained article can be viewed on [Medium](https://medium.com/@thulitha_n/building-an-end-to-end-ci-cd-pipeline-on-gcp-0e3546d414c4).
